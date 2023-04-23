@@ -1,4 +1,4 @@
-name: Deploy-2
+name: KEY2
 
 on:  
   workflow_dispatch:
